@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MadLevel3Task1</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="welcome">Welcome to the Games Rating app!</string>
+    <string name="instructions">Click START to start rating :)</string>
+    <string name="startbtn">Start</string>
+</resources>
